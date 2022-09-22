@@ -11,7 +11,7 @@ LitLifeSoftware is an independent creator of mobile apps. All our apps are free 
 ## Current Projects
 
 - [HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe) - Your own personal diary.
-![History of Me][HOM_Img]
+![History of Me](assets/HOM_v160_1024px.png)
 - [leitmotif-flutter](https://github.com/litlifesoftware/leitmotif-flutter) - A collection of widgets and screens for Flutter implementing the Leitmotif Design Language.
 - [date_colors](https://github.com/litlifesoftware/date_colors) - A Flutter package to generate a color scheme based on a date. The color scheme includes a color for the calendar day and a color for the year.
 
@@ -21,5 +21,3 @@ LitLifeSoftware is an independent creator of mobile apps. All our apps are free 
 - 📄 [Check out our website](http://litlifesoftware.github.io/)
 - 🎞 [Check out our Instagram Profile](https://www.instagram.com/litlifesw/)
 - ⏯️ [Check out our YouTube Channel](https://www.youtube.com/channel/UC0r6RzrH6K1yTQoVYDfxVZg/)
-
-[HOM_Img]: assets/HOM_v160_1024px.png
