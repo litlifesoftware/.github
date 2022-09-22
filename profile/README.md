@@ -22,4 +22,4 @@ LitLifeSoftware is an independent creator of mobile apps. All our apps are free 
 - 🎞 [Check out our Instagram Profile](https://www.instagram.com/litlifesw/)
 - ⏯️ [Check out our YouTube Channel](https://www.youtube.com/channel/UC0r6RzrH6K1yTQoVYDfxVZg/)
 
-[HOM_Img]: ../assets/HOM_v160_1024px.png
+[HOM_Img]: assets/HOM_v160_1024px.png
